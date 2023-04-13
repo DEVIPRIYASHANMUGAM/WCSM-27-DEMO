@@ -9,6 +9,7 @@ public class demo {
 	{
 		System.out.println("this is a demo");
 		System.out.println("hiiii");
+		System.out.println("hello");
 		
 	}
 	@Test
